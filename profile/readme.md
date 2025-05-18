@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/wiredwiredwired/.github/refs/heads/main/profile/logo.png" width="80" alt="wired Logo"/><br/>
+  <img src="https://raw.githubusercontent.com/wiredwiredwired/.github/refs/heads/main/profile/wired.png" width="80" alt="wired Logo"/><br/>
   <img src="https://raw.githubusercontent.com/wiredwiredwired/.github/refs/heads/main/profile/transparent.png" height="25" width="20"/>
   <br/>
   <b>wired</b>
