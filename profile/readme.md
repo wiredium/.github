@@ -15,7 +15,7 @@
 > Two university students, who are passionate about technology and innovation, decided to join some competitions and hackathons to learn more about the world of technology and to build something new.
 
 
-## Winning Competitions
+## Competitions Won
 
 - HACKMETU - 1st Place 🏆
 - HUCKATHON25 - 1st Place 🏆
