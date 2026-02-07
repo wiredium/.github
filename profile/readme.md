@@ -20,6 +20,7 @@
 - TEKNOFEST BLOCKCHAIN COMPETITION 2025 - 5th out of 4.677 Teams 🏆
 - HACKMETU - 1st Place 🏆
 - HUCKATHON25 - 1st Place 🏆
+- BTK Ankara AI Hackathon - 1st Place 🏆
 - Ostim Solana Hackathon - 1st Place 🏆
 - Cankaya 2nd Planathon - 1st Place 🏆
 - IT-ISQS Erasmus Project Competition - 1st Place 🏆
