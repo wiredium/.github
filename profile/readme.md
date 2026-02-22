@@ -18,7 +18,7 @@
 ## Competitions Won
 
 - TEKNOFEST BLOCKCHAIN COMPETITION 2025 - 5th out of 4.677 Teams 🏆
-- HACKMETU - 1st Place 🏆
+- HACKMETU2025 - 1st Place 🏆
 - HUCKATHON25 - 1st Place 🏆
 - Ostim Solana Hackathon - 1st Place 🏆
 - Cankaya 2nd Planathon - 1st Place 🏆
@@ -27,6 +27,7 @@
 - Turkcell Code Night - 1st Place🏆
 - BTK Academy - Ankara AI Hackathon - 1st Place🏆
 - Ostim AI Competition - 2nd Place 🏅
+- HACKMETU2026 - 3rd Place 🏅
 - Securitas Türkiye Güvenli Fikirler Ideathon - 3rd Place 🏅
 - Lifezone Hackcube Competition - 2nd Place (won investment from jury) 🏅
 - Hematohack - 2nd Place (won investment from jury) 🏅
