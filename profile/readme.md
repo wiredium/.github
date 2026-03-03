@@ -18,6 +18,7 @@
 ## Competitions Won
 
 - TEKNOFEST BLOCKCHAIN COMPETITION 2025 - 5th out of 4.677 Teams 🏆
+- WRAITHATON - 1st Place 🏆
 - HACKMETU2025 - 1st Place 🏆
 - HUCKATHON25 - 1st Place 🏆
 - Ostim Solana Hackathon - 1st Place 🏆
